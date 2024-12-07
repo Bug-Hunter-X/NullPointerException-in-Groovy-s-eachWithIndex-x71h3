@@ -1,0 +1,1 @@
+This example demonstrates a potential NullPointerException in Groovy when using `eachWithIndex` on a null or empty list. The solution shows how to handle these cases gracefully.
